@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808140220032",
+    "firebase_url": "https://ihop-e4749.firebaseio.com",
+    "project_id": "ihop-e4749",
+    "storage_bucket": "ihop-e4749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808140220032:android:90aa15bc45ffc76dd7e865",
+        "android_client_info": {
+          "package_name": "com.ihop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808140220032-g5oklu2v5nmrjd7vgg2fjbljch32gsb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQN6Nu9ZFFBfGkdKb_KV5ltG3pgedlKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808140220032-g5oklu2v5nmrjd7vgg2fjbljch32gsb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

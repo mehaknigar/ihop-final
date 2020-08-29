@@ -1,0 +1,18 @@
+Weight range:
+	1kg - 41kg
+
+Head Circumference:
+	20cm - 70cm
+
+Height range:
+	30cm - 151cm
+
+-------------------------------------------------------
+
+3.70		0 mon
+4.75		1 mon
+5.70		2 mon
+6.45		3 mon
+7.12		4 mon
+7.70		5 mon
+8.20		6 mon
