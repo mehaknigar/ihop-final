@@ -1,5 +1,4 @@
-# baba_spira
-# BABA API Documentation
+#Documentation
 
 ## Login Request
 Send a POST Request to:
